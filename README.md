@@ -1,6 +1,6 @@
 # AI SLA Breach Prediction Automation
 
-AI-powered support workflow built with **n8n** and **OpenAI** to identify support tickets that are at risk of missing SLA before a breach occurs.
+Modern support teams cannot afford to wait until an SLA is already missed to respond. This project demonstrates how AI and workflow automation can be combined to detect SLA risk earlier, allowing teams to intervene proactively, prioritize more effectively, and reduce customer-impacting delays.
 
 ## Overview
 
