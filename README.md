@@ -18,6 +18,12 @@ This is **Project 3** in a broader system:
 
 ---
 
+## Architecture
+
+This workflow is part of a layered AI-powered support operations pipeline in which each stage builds on the previous one to improve ticket intelligence, prioritization, and proactive intervention.
+
+![AI Support Intelligence Pipeline](workflow-diagram.png)
+
 ## AI Support Automation Series
 
 This project is part of a multi-stage AI-powered support operations system designed to move teams from reactive workflows to proactive, intelligence-driven operations.
