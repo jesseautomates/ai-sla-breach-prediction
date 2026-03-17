@@ -32,13 +32,13 @@ Each project builds on the previous one:
 
 ### 🔹 Project 1: AI Ticket Triage  
 Classifies incoming support tickets, enriches them with structured metadata, and establishes a clean foundation for downstream automation.  
-👉 https://github.com/jesseautomates/ai-support-ticket-triage
+👉 [https://github.com/jesseautomates/ai-support-ticket-triage](https://github.com/jesseautomates/ai-support-ticket-triage-automation)
 
 ---
 
 ### 🔹 Project 2: Escalation Risk Detection  
 Identifies tickets likely to escalate by analyzing urgency, sentiment, and response patterns, enabling earlier intervention.  
-👉 https://github.com/jesseautomates/ai-support-escalation-risk-detection
+👉 [https://github.com/jesseautomates/ai-support-escalation-risk-detection](https://github.com/jesseautomates/ai-support-escalation-risk-detection)
 
 ---
 
@@ -150,18 +150,6 @@ This progression demonstrates how AI can be applied incrementally to transform s
 | 10428 | High | High | Urgent language + low time remaining |
 | 10429 | Medium | Medium | Moderate backlog and delayed response |
 | 10430 | Low | Low | Sufficient SLA buffer |
-
----
-
-## Architecture
-
-This project is part of a layered AI support pipeline:
-
-1. **Triage Layer** → structures and enriches tickets  
-2. **Escalation Layer** → detects risk signals  
-3. **SLA Layer (this project)** → predicts deadline failure  
-
-Together, they enable a shift from **reactive support → proactive operations**
 
 ---
 
